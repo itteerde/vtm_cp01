@@ -44,7 +44,7 @@ While the `Prince` has absolute power a consulting judge should take into consid
 
 - Discuss [Originalism](https://en.wikipedia.org/wiki/Originalism) in character, transferred to the world, and keeping in mind that in the World of Darkness, maybe the commandments are by a higher being, though both that and authenticity are questionable (and this higher being, Caine, is neither omnipotent nor omniscient).
 - Obviously philosophers' ([Political Philosophy](https://en.wikipedia.org/wiki/Political_philosophy)) positions on rule, power, virtues, ...
-  - Plato
+  - Plato, especially [The Republic](https://www.gutenberg.org/cache/epub/55201/pg55201.txt)
   - Aristotle
   - [Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli)
   - Hobbes
