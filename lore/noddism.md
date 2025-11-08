@@ -40,6 +40,18 @@ As unlikely as it is that other players will browse the non-Wiki part of the Rep
 While the `Prince` has absolute power a consulting judge should take into consideration not only the `Prince`'s politics and orders, though they do reign supreme, but also offer guidance in line with the traditions of the `Kindred` and the commandments of the `Antediluvians`, especially Caine, as far as the latter can be known.
 
 
+## Ideas
+
+- Discuss [Originalism](https://en.wikipedia.org/wiki/Originalism) in character, transferred to the world, and keeping in mind that in the World of Darkness, maybe the commandments are by a higher being, though both that and authenticity are questionable (and this higher being, Caine, is neither omnipotent nor omniscient).
+- Obviously philosophers' ([Political Philosophy](https://en.wikipedia.org/wiki/Political_philosophy)) positions on rule, power, virtues, ...
+  - Plato
+  - Aristotle
+  - [Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli)
+  - Hobbes
+  - Locke
+  - [Arendt](https://en.wikipedia.org/wiki/Hannah_Arendt)
+
+
 ## Quotes to be used by Emilie
 
 As `Markavian`, with the full `Loresheet` (`Cobwebb`) exposure/ investment and `Occult` ●●●● (`Noddism`) she should be easily in the top 10 researchers/ lore keepers (by understanding, in the beginning she is lacking a collection, having lost her's when she went into `Topor`) alive (assuming the vampire side should be [by far] leading the research done by `The Second Inquisition` (those might catch up fast given their advantage in technology and numbers).
