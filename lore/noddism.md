@@ -47,6 +47,10 @@ While the `Prince` has absolute power a consulting judge should take into consid
 For whenever werewolves come up Emilie should have some quotes to comment on possible connections.
 
 
+### Gehenna
+- What does `Gehenna` mean, according to Emilie? Is `Gehenna` synonym to `The Endtimes`?
+
+
 ## Ideas
 
 - Discuss [Originalism](https://en.wikipedia.org/wiki/Originalism) in character, transferred to the world, and keeping in mind that in the World of Darkness, maybe the commandments are by a higher being, though both that and authenticity are questionable (and this higher being, Caine, is neither omnipotent nor omniscient).
@@ -61,4 +65,5 @@ For whenever werewolves come up Emilie should have some quotes to comment on pos
 
 ## Quotes to be used by Emilie
 
-As `Markavian`, with the full `Loresheet` (`Cobwebb`) exposure/ investment and `Occult` ●●●● (`Noddism`) she should be easily in the top 10 researchers/ lore keepers (by understanding, in the beginning she is lacking a collection, having lost her's when she went into `Topor`) alive (assuming the vampire side should be [by far] leading the research done by `The Second Inquisition` (those might catch up fast given their advantage in technology and numbers).
+- As `Markavian`, with the full `Loresheet` (`Cobwebb`) exposure/ investment and `Occult` ●●●● (`Noddism`) she should be easily in the top 10 researchers/ lore keepers (by understanding, in the beginning she is lacking a collection, having lost her's when she went into `Topor`) alive (assuming the vampire side should be [by far] leading the research done by `The Second Inquisition` (those might catch up fast given their advantage in technology and numbers).
+- Based on her `Occult` (`Noddism`) and `Academics` (`History`) I think Emilie should refer to the `Kindred` as `Cainites` most of times. At least that would be how she thinks about herself/ vampires. Guess in legal language she would apply the language preferred by the `Kindred` of Chicago. So academic language, that she thinks in, too, and custom societal language, if not slang to her.
