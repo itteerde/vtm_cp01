@@ -40,6 +40,13 @@ As unlikely as it is that other players will browse the non-Wiki part of the Rep
 While the `Prince` has absolute power a consulting judge should take into consideration not only the `Prince`'s politics and orders, though they do reign supreme, but also offer guidance in line with the traditions of the `Kindred` and the commandments of the `Antediluvians`, especially Caine, as far as the latter can be known.
 
 
+> The Book of Nod has conflicting messages concerning werewolves. In some sections it seems to call them kin to the Gangrel and advises Kindred to leave them be as they can be dangerous enemies. In other places, such as among the Proverbs, the text advises vampires to “feast” upon the blood of the Moon Beasts. The Chronicle of Secrets implies that the rise of a great Lupine threat will be one of the many signs of the coming Gehenna, though a few Noddist scholars refute this interpretation and think the text speaks of a forgotten enemy instead. When a nearby city’s Court is completely destroyed by savage monsters under a blood red moon, the few survivors are quick to blame the Lupines. While the refugees and their resources are initially welcomed, it soon becomes clear that whatever wiped out their Court has followed them to their new home. Is this an early sign of Gehenna? Or is there a darker secret following these Kindred?
+>
+> -- <cite>The Book of Nod, pg. 15</cite>
+
+For whenever werewolves come up Emilie should have some quotes to comment on possible connections.
+
+
 ## Ideas
 
 - Discuss [Originalism](https://en.wikipedia.org/wiki/Originalism) in character, transferred to the world, and keeping in mind that in the World of Darkness, maybe the commandments are by a higher being, though both that and authenticity are questionable (and this higher being, Caine, is neither omnipotent nor omniscient).
