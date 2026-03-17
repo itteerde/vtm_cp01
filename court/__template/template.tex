@@ -1,0 +1,88 @@
+\documentclass[11pt,a4paper]{article}
+
+% --- Packages ---
+\usepackage[a4paper, margin=2.5cm, left=3.5cm, bottom=3cm]{geometry}
+\usepackage{fontspec}
+\usepackage{setspace}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{lineno} % Line numbering package
+% Replacing xwatermark with the more stable draftwatermark
+\usepackage[firstpageonly=false, color=gray!15, text=VehmeCourtChicago, scale=0.5]{draftwatermark}
+
+% --- Font Setup ---
+% If you have 'EB Garamond' or 'Crimson Text' on your system, use them here.
+% Otherwise, Georgia or Times New Roman provides that "Ancient Authority" look.
+\setmainfont{Times New Roman} 
+
+% Red "Blood" accents
+\definecolor{KindredRed}{HTML}{8B0000}
+
+% --- Header & Footer ---
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyhead[L]{\textit{\color{KindredRed}Strictly Confidential - Camarilla Archive}}
+\fancyfoot[R]{\small \thepage/\pageref{LastPage}}
+
+% --- Formatting ---
+\setstretch{1.2}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\thesection-\Roman{subsection}}
+
+% --- Document ---
+\begin{document}
+
+\begin{center}
+    {\Huge \color{KindredRed} \textbf{THE VEHMIC COURT}} \\
+    \vspace{0.5em}
+    {\large \textbf{DOMAIN OF CHICAGO | INNER CIRCLE PROTOCOL}} \\
+    \rule{\textwidth}{1pt}
+\end{center}
+
+\vspace{1em}
+
+\begin{description}
+    \item[\color{KindredRed}\textbf{DATE:}] \texttt{2026-02-23}
+    \item[\color{KindredRed}\textbf{STAMP:}] \texttt{STATUS REPORT}
+    \item[\color{KindredRed}\textbf{PRESIDING:}] \texttt{Judge E. Autumn, Clan Markavian}
+\end{description}
+
+\vspace{1.5em}
+
+\linenumbers
+
+
+
+\section{Preparations}
+
+The day before the arrival of the delegation Ghengis and \texttt{PersonOfInterest2} were contacted, but proved defiant to cooperate with the court's staff.
+
+
+\section{Receiving the Delegation}
+
+The court's staff met with the delegation at the airport.
+
+
+\nolinenumbers
+
+\vspace{4em}
+
+\begin{flushleft}
+    \color{KindredRed}\textbf{CONFIDENTIAL} \\
+    \vspace{2em}
+    \rule{6cm}{0.5pt} \\
+    \textit{Signed on this 23rd night of February, 2026}
+\end{flushleft}
+
+\vfill
+\begin{center}
+    \footnotesize \textit{This document is for Vehme Court use only.}
+\end{center}
+
+\end{document}
